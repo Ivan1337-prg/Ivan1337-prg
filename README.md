@@ -12,9 +12,11 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- **Frameworks**: React.js, Node.js, Flask, Unity
-- **Tools**: Git, Docker, Kubernetes, Linux, Visual Studio, Netlify, Makefile
+- **Languages**: ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- **Frameworks**: React.js, Node.js, Unity Hub
+- **Developer Tools**: Git, GitHub, GitLab, Visual Studio, Figma, Linux, Netlify, Vercel
+- **Other Skills**: Agile methodologies, Scrum, Multilingual (English, Ukrainian, Spanish, Polish, Russian)
+
 
 ---
 
