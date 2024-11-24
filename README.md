@@ -36,7 +36,7 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 ---
 
 ## 🎉 Fun Facts
-- I once reduced deployment time by 30% for a project using automation tools.
+- I spent so much time gaming that it eventually inspired me to dive into coding—I wanted to create the games I loved playing!
 - Huge fan of BMW M cars—especially the M2!
 - Created a fully functional library system with over 1,000 lines of code.
 
