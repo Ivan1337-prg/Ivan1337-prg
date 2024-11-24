@@ -1,5 +1,5 @@
 # Hi there! 👋
-I’m **Taras Glushko**, a passionate Software Engineer and Computer Science student. I love solving challenging problems, building innovative projects, and constantly improving my technical skills.
+I’m **Taras Glushko**, a passionate Software Engineer and Computer Science student at the University of North Texas. I love solving challenging problems, building innovative projects, and constantly improving my technical skills.
 
 ---
 
@@ -19,9 +19,9 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 ---
 
 ## 🌟 Personal Highlights
-- Built my first computer at age 10 and have been coding ever since.
-- Proficient in 5 languages, including English, Ukrainian, and Spanish.
-- Passionate about game development and contributing to open-source projects.
+- Built my first computer at age 10.
+- Proficient in 5 languages, including English, Ukrainian, and Polish.
+- Passionate about software engineering, game development, and contributing to open-source projects.
 
 ---
 
@@ -29,13 +29,6 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 - Mastering advanced React.js and Next.js for full-stack applications.
 - Exploring the use of Docker and Kubernetes for scalable deployments.
 - Improving problem-solving skills through LeetCode challenges.
-
----
-
-## 🎓 Certifications
-- **CS50: Introduction to Computer Science** by Harvard University
-- **React – The Complete Guide** by Udemy
-- **Linux Essentials Certification**
 
 ---
 
