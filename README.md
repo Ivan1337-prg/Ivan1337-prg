@@ -35,7 +35,7 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 ## 🎉 Fun Facts
 - I once reduced deployment time by 30% for a project using automation tools.
 - Huge fan of BMW M cars—especially the M2!
-- Created a fully functional game with over 1,000 lines of code in Unity.
+- Created a fully functional library system with over 1,000 lines of code.
 
 ---
 
@@ -47,7 +47,7 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 
 ## 🌍 Community Contributions
 - Regular contributor to open-source projects on GitHub.
-- Volunteered as a mentor for high school students learning Python basics.
+- Volunteered as a mentor for high school students learning C++ and Unity basics.
 
 ---
 
