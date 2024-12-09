@@ -17,35 +17,6 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 - **Developer Tools**: Git, GitHub, GitLab, Visual Studio, Figma, Linux, Netlify, Vercel
 - **Other Skills**: Agile methodologies, Scrum, Multilingual (English, Ukrainian, Spanish, Polish, Russian)
 
-
-
----
-
-## 🌟 Personal Highlights
-- Built my first computer at age 10.
-- Proficient in 5 languages, including English, Ukrainian, and Polish.
-- Passionate about software engineering, game development, and contributing to open-source projects.
-
----
-
-## 📚 Learning Goals
-- Mastering advanced React.js and Next.js for full-stack applications.
-- Exploring the use of Docker and Kubernetes for scalable deployments.
-- Improving problem-solving skills through LeetCode challenges.
-
----
-
-## 🎉 Fun Facts
-- I spent so much time gaming that it eventually inspired me to dive into coding—I wanted to create the games I loved playing!
-- Huge fan of BMW M cars—especially the M2!
-- Created a fully functional library system with over 1,000 lines of code.
-
----
-
-## 💬 Feedback
-- "Taras is an exceptional team player who delivers high-quality code under tight deadlines." – Former Team Lead
-- "His problem-solving skills and dedication are impressive. A true asset to any team." – Peer Feedback
-
 ---
 
 ## 🌍 Community Contributions
