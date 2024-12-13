@@ -35,4 +35,4 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 
 ---
 
-Feel free to connect, collaborate, or check out my projects!
+Feel free to connect, collaborate, or check out my projects!!
