@@ -3,7 +3,7 @@ I’m **Taras Glushko**, a passionate Software Engineer and Computer Science stu
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 - [**Library Management System**](https://github.com/Ivan1337-prg/Library-Management-System): A modular system for tracking loans, managing inventory, and recording user details, built with C++.
 - [**React Portfolio**](https://github.com/Ivan1337-prg/react-portfolio): A customizable personal website built with React.js, HTML, and CSS.
 - [**Sphere Quest Game**](https://github.com/Ivan1337-prg/Sphere-Quest-Interactive-3D-Game-Project): A 3D interactive game developed in Unity with C# scripting.
