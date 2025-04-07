@@ -1,5 +1,5 @@
 # Hi there! 👋
-I’m **Taras Glushko**, a passionate Software Engineer and Computer Science student at the University of North Texas. I love solving challenging problems, building innovative projects, and constantly improving my technical skills.
+I’m **Taras Glushko**, a passionate Software Engineer at Citibank and Computer Science student at the University of North Texas. I love solving challenging problems, building innovative projects, and constantly improving my technical skills.
 
 ---
 
