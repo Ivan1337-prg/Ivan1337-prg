@@ -25,7 +25,7 @@ I’m **Taras Glushko**, a passionate Software Engineer at Citibank and Computer
 
 ## 🌍 Community Contributions
 - Regular contributor to open-source projects on GitHub.
-- Volunteered as a mentor for high school students learning C++ and Unity basics.
+- Volunteered as a mentor for high school students learning C# and Unity basics.
 
 ---
 
