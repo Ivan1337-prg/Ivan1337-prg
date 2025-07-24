@@ -14,14 +14,7 @@ I’m **Taras Glushko**, a passionate Software Engineer at Citibank and Computer
 ## 🛠️ Technologies & Tools
 
 - **Languages**:  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 
 - **Frameworks**:  
   ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)  
